@@ -11,9 +11,14 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("Hi");
         }
+        
         static void Main(string[] args)
         {
-         
+            maincopy();     
         }
+    
+
+    
+    
     }
 }
